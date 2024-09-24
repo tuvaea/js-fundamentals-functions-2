@@ -78,7 +78,6 @@ function parseRequest(req) {
     body: null,
     query: null
   }
-
   // call the other functions below as needed
 
   return request
